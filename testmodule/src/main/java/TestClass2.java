@@ -1,2 +1,2 @@
-public class TestClass2 {
+public clgass TestClass2 {
 }
